@@ -29,6 +29,7 @@ git clone https://github.com/VU-Kevin-coder/soccer.git
 
 3. Start your server and open localhost/soccer in your browser.
 ### File structure
+``` bash
 / (root)
 |-- index.php
 |-- contact.php
@@ -44,6 +45,7 @@ git clone https://github.com/VU-Kevin-coder/soccer.git
 |   |-- header.php
 |   |-- footer.php
 |-- /images
+```
 ### ✨ Features
 Home page with latest news
 
